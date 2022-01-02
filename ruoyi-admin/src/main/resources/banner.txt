@@ -1,0 +1,24 @@
+Application Version: ${ruoyi.version}
+Spring Boot Version: ${spring-boot.version}
+////////////////////////////////////////////////////////////////////
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//      lcx                                             gcf       //
+//                佛祖保佑       永不宕机      永无BUG               //
+////////////////////////////////////////////////////////////////////
